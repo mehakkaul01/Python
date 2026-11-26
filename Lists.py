@@ -36,7 +36,6 @@ print(student[-1])
 # Python
 
 
-
 a = ["India", "Japan", "USA", "France"]
 
 print(a[0][0]) 
@@ -49,8 +48,6 @@ print(a[-1][-1])
 # d
 # a
 # e
-
-
 
 
 colors = ["red", "green", "blue"]
@@ -66,8 +63,6 @@ print(colors[1][2])
 # u
 # b
 # e
-
-
 
 
 a = [ [10, 20, 30], [40, 50, 60], [70, 80, 90] ]
@@ -88,8 +83,6 @@ print(a[2][0])
 # 70
 
 
-
-
 students = [ ["Rahul", 20], ["Priya", 21], ["Amit", 19] ]
 
 print(students[0][0]) 
@@ -101,8 +94,6 @@ print(students[2][0])
 # Rahul
 # 21
 # Amit
-
-
 
 
 data = [ 100, "Python", [10, 20, 30], True, ["India", "Japan", "USA"] ]
@@ -121,8 +112,6 @@ print(data[4][-1])
 # USA
 
 
-
-
 a = [ "Hello", [1, 2, 3], "India", [True, False, [100, 200, 300]] ]
 
 print(a[0][1]) 
@@ -136,7 +125,6 @@ print(a[3][2][1])
 # 3
 # i
 # 200
-
 
 
 x = ["Python", [10, 20, 30], "India"]
@@ -154,8 +142,6 @@ print(x[2][2])
 # d
 
 
-
-
 x = [ [1, 2], [3, 4], [5, [6, 7]] ]
 
 print(x[0][1]) 
@@ -168,7 +154,6 @@ print(x[-1][-1][-1])
 # 5
 # 6
 # 7
-
 
 
 x = [ "Hello", ["India", "Python"], [10, [20, 30, [40, 50]]], True ]
@@ -185,7 +170,7 @@ print(x[-2][1][1])
 
 
 
-
+# Practice set 2
 # Q1: List references
 current_actions = ["line", "circle", "square"]
 backup_actions = current_actions
